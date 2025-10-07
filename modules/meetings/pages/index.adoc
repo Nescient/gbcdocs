@@ -1,0 +1,28 @@
+= Tech Meetings
+
+The Technology Group currently has meetings throughout the year and annually reports activities and plans to the GBC body.  The group is currently made up of the following members:
+
+.Team members
+[cols="1,1"]
+|===
+|Name|Responsibilities
+
+|Sam|Deacon,streaming
+|Alyssa|presentation
+|Dom|sound
+|Hal|presentation
+|Katy|streaming,post-production
+|Kristina|presentation,streaming
+|Lorien|presentation
+|Micah|sound
+|Nate|sound
+|Pete|sound
+
+|===
+
+.Meetings
+[cols="1,5"]
+|===
+|Date|Notes
+|xref:20250712.adoc[]|Initial plan to develop this documentation
+|===

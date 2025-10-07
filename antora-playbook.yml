@@ -1,11 +1,15 @@
 site:
-  title: GPC Tech Handbook
+  title: Grace Baptist Church Technology Handbook
   start_page: gbcdocs::index.adoc 
 content:
   sources: 
-  - url: https://github.com/Nescient/gbcdocs
-    branches: HEAD
+  - url: .
+    branches: main
 ui: 
   bundle:
     url: https://gitlab.com/antora/antora-ui-default/-/jobs/artifacts/HEAD/raw/build/ui-bundle.zip?job=bundle-stable
     snapshot: true
+  supplemental_files: ./supplemental-ui/
+antora:
+  extensions:
+  - require: '@antora/lunr-extension'

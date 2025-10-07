@@ -1,3 +1,27 @@
-= Grace Baptist Church Technology Handbook
+= Information
 
 This site serves as the handbook for the Grace Baptist Church of Pennellville NY Technology Team (https://www.grace4you.org/).
+
+== Roles and Responsibilities
+
+The GBC Technology Group has three main subgroups:  sound, presentation, and streaming.  The sound team handles setting up microphones and managing sound during services.  The presentation team handles creating PowerPoint presentations for use during the service.  The streaming team handles running the stream and changing presentation slides during the service, as well as editing streams and post-production.  These groups are explained in more detail below.
+
+== Presentation
+
+The Presentation team manages the creation of PowerPoint slides to be using for the overhead projector during services and special events.  These slides are duplicated to the Song Leader station as well.  For more information, see xref:presentation:index.adoc[].
+
+== Sound
+
+The Sound team manages the setup, maintenance, and operation of microphones, speakers, and related technology for services and special events.  They are responsible for helping the speaker get their microphone attached (remember fresh batteries!) and setting up mics for specials.  For more information, see xref:sound:index.adoc[].
+
+== Streaming
+
+The Streaming team manages the live stream for services, including changing PowerPoint slides and camera positions.  For more information, see xref:streaming:index.adoc[].
+
+== Post-production
+
+The Post-production team manages editing the live stream for permanent storage on YouTube after services end.  For more information, see xref:post:index.adoc[].
+
+== North Building Plans
+
+INFORMATION:: We need to identify individuals to assist the Building group with technology planning for the building north of River Road (think network drops, screen placement, camera placements inside and out, wireless coverage, etc).
