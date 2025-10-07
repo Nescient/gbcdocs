@@ -1,0 +1,5 @@
+name: gbcdocs
+version: ~
+title: GBC Tech Handbook
+nav:
+- modules/ROOT/nav.adoc

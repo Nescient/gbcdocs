@@ -1,0 +1,3 @@
+= Grace Baptist Church Technology Handbook
+
+This site serves as the handbook for the Grace Baptist Church of Pennellville NY Technology Team (https://www.grace4you.org/).
