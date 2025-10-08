@@ -74,7 +74,17 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Antora
-        run: ${{ steps.detect-package-manager.outputs.runner }} npx antora antora-playbook.yml
+        run: ${{ steps.detect-package-manager.outputs.runner }} npx --package antora --package @antora/collector-extension antora --extension .vale/lib/antora-vale-integration-extension.js antora-playbook.yml
+      - name: Install reviewdog
+        uses: reviewdog/action-setup@v1
+        with:
+          reviewdog_version: latest
+      - name: Run reviewdog
+        env:
+          REVIEWDOG_GITHUB_API_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          [ -f vale.log ] && cat vale.log
+          [ -f vale.rdjsonl ] && cat vale.rdjsonl | reviewdog -f=rdjsonl -reporter=github-pr-check
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:

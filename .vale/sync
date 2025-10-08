@@ -1,0 +1,7 @@
+#!/bin/bash
+
+if [ ! -v VALE_CONFIG_PATH ]; then
+  VALE_CONFIG_PATH=.vale/config.ini
+fi
+
+npx -y --prefer-offine --package @jti/vale --package @asciidoctor/cli vale --config "$VALE_CONFIG_PATH" sync

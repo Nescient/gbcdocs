@@ -1,0 +1,20 @@
+= .vale for Antora site
+
+This repository provides the .vale directory for running https://vale.sh[Vale] on the content of an Antora site.
+
+== Usage
+
+Run the following at the root of your playbook project.
+
+ $ git clone https://gitlab.com/opendevise/oss/antora-dot-vale .vale
+
+You can then run Antora with the Vale integration enabled.
+
+ $ npx -y --package antora --package @antora/collector-extension antora \
+   --extension .lib/antora-vale-integration-extension.js antora-playbook.yml
+
+The Vale output will be written to vale.rdjsonl or vale.log, depending on whether or not the content is local to the playbook repository and branch.
+
+The Vale integration extension can be run on an author playbook in the worktree for an individual content source instead of on the whole site.
+
+See the https://docs.antora.org/collector-extension/latest/use-cases/#vale-integration[Vale integration] docs for more information.
