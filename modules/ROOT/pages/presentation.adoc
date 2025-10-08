@@ -1,3 +1,30 @@
 = Presentation
 
-Information
+Information on how to create a Presentation for GBC
+
+Document workflows
+
+Develop onboarding guides
+
+Talk about Best practices:
+
+* square slides (switch under design tab from widescreen to standard; but this may change with the new building)
+* partially transparent text-box backgrounds (format background)
+* favor top of slide for words (for those in the back/short in stature)
+* copyrighted works (don't use just any image from the internet-no watermarked pictures, etc)
+* announcement slides (no longer needed, Katy has been doing all announcement slides)
+* recommended font face/family/size (using "fancy" script makes it harder to read from far away, calibri or arial is probably best)
+
+== Helpful Church Information
+
+For congregational music, a Chorus typically follows every Verse.  Sometimes, two Verses might be back-to-back and the Song Leader's discretion.  Sometimes there is osmething called a Bridge that occurs before the Chorus.
+
+Generally our order of service is
+
+. Welcome
+. Prelude
+* chorus after verse
+
+== Glossary
+
+Prelude:: an introductory piece of music to help the congregation prepare their hearts for worship.  Members remain silent during this time.
