@@ -8,7 +8,7 @@ The GBC Technology Group has three main subgroups:  sound, presentation, and str
 
 == Presentation
 
-The Presentation team manages the creation of PowerPoint slides to be using for the overhead projector during services and special events.  These slides are duplicated to the Song Leader station as well.  For more information, see xref:presentation:index.adoc[].
+The Presentation team manages the creation of PowerPoint slides to be using for the overhead projector during services and special events.  These slides are duplicated to the Song Leader station as well.  For more information, see xref:presentation.adoc[].
 
 == Sound
 
