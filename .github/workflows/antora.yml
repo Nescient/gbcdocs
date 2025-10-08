@@ -74,7 +74,7 @@ jobs:
       - name: Install dependencies
         run: ${{ steps.detect-package-manager.outputs.manager }} ${{ steps.detect-package-manager.outputs.command }}
       - name: Build with Antora
-        run: ${{ steps.detect-package-manager.outputs.runner }} npx --package antora antora-playbook.yml
+        run: ${{ steps.detect-package-manager.outputs.runner }} npx antora antora-playbook.yml
         # run: ${{ steps.detect-package-manager.outputs.runner }} npx --package antora --package @antora/collector-extension antora --extension .vale/lib/antora-vale-integration-extension.js antora-playbook.yml
       - name: Install reviewdog
         uses: reviewdog/action-setup@v1
