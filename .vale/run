@@ -1,0 +1,17 @@
+#!/bin/bash
+
+if [ -z "$VALE_CONFIG_PATH" ]; then
+  VALE_CONFIG_PATH="$ANTORA_PLAYBOOK_DIR/.vale/config.ini"
+fi
+
+OUTPUT_STYLE='CLI'
+OUTPUT_FILE="$ANTORA_PLAYBOOK_DIR/vale.log"
+
+if [ "$ANTORA_ORIGIN_WORKTREE" == "$ANTORA_PLAYBOOK_DIR" ]; then
+  OUTPUT_STYLE="$ANTORA_PLAYBOOK_DIR/.vale/templates/rdjsonl.tmpl"
+  OUTPUT_FILE="$ANTORA_PLAYBOOK_DIR/vale.rdjsonl"
+else
+  echo "Running Vale (url: $ANTORA_ORIGIN_URL | refname: $ANTORA_ORIGIN_REFNAME | start_path: ${ANTORA_ORIGIN_START_PATH:-.})" >> "$OUTPUT_FILE"
+fi
+
+NO_COLOR=1 "$NPX" -y --prefer-offine --package @jti/vale --package @asciidoctor/cli vale --config "$VALE_CONFIG_PATH" --glob '!**/.*.adoc' --no-wrap --output "$OUTPUT_STYLE" ${ANTORA_ORIGIN_START_PATH:-.} >> "$OUTPUT_FILE"
