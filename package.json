@@ -1,4 +1,8 @@
 {
+  "scripts": {
+    "build": "npx antora antora-playbook.yml",
+    "lint": "npx --package antora --package @antora/collector-extension antora --extension .vale/lib/antora-vale-integration-extension.js antora-playbook.yml"
+  },
   "devDependencies": {
     "@antora/collector-extension": "^1.0.2",
     "@antora/lunr-extension": "^1.0.0-alpha.10",

@@ -13,3 +13,4 @@ ui:
 antora:
   extensions:
   - require: '@antora/lunr-extension'
+  - require: '@antora/collector-extension'
