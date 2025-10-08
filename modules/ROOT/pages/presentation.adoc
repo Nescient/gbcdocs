@@ -21,8 +21,9 @@ For congregational music, a Chorus typically follows every Verse.  Sometimes, tw
 
 Generally our order of service is
 
-. Welcome
+. Welcome/Announcements
 . Prelude
+. Opening Prayer
 * chorus after verse
 
 == Glossary
@@ -33,6 +34,5 @@ Prelude:: an introductory piece of music to help the congregation prepare their 
 == Getting Started
 
 . Open a previous PowerPoint document.  If you don't have one, start here.
-. Open your email to look for the most recent OOS and SSS email from Hal.
-
-OOS & Sunday Info from gbc13132
+. Open your email to look for the most recent OOS and SSS email from Hal (flickingerhal52).
+. OOS & Sunday Info from gbc13132
