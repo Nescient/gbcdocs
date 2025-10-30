@@ -1,0 +1,26 @@
+= AV analysis
+
+with Josh
+
+
+* Pete
+* Tom
+* Sam
+* Nate
+
+
+thinking 4 monitors,
+
+Headset monitors are significantly (4x) more expensive. 
+
+he has a guy who tunes and does all the rigging for speakers. 
+
+run bnc the long way and then use hdmi converters at the classrooms.  convert coaxial to digital
+
+how many channels?  24 channel board.
+
+deffly want to be able to remove phantom power per channel. 
+
+for a board, midas series.  m32 and m32r is the smaller.  can have a stage box. 
+
+
