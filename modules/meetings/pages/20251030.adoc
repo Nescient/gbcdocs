@@ -1,6 +1,6 @@
 = AV analysis
 
-with Josh
+with Josh and Tony.
 
 
 * Pete
@@ -24,3 +24,15 @@ deffly want to be able to remove phantom power per channel.
 for a board, midas series.  m32 and m32r is the smaller.  can have a stage box. 
 
 
+board on the stage. digitizes signal and sends it to back.  can also receive signals to output. 
+
+the box is $800
+
+$1000 for main board.
+
+recommend passive for hung monitors just because amps go bad.
+
+SDI coax.  HDMI to SDI converter.  $170 converter.  BNC connector.  RG6 coax for the distance.  then other end hdmi to 8 channel distribution.
+
+
+Speakon connector.
