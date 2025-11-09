@@ -12,7 +12,7 @@ https://www.biblegateway.com/passage/?search=2%20Corinthians%2013%3A5&version=NK
 
 Here are some notes about Bible Studies.
 
-. Assurance of Salvation
+. xref:salvationsure.adoc[Assurance of Salvation]
 . Resisting Temptation
 . Reconciling Broken Relationships
 
