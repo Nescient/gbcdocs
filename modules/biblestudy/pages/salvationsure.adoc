@@ -3,11 +3,11 @@
 .https://www.biblegateway.com/passage/?search=Philippians%202%3A12&version=NKJV
 [quote,Philippians 2:12,NKJV]
 Therefore, my beloved, as you have always obeyed, not as in my presence only, but now much more in my absence, work out your own salvation with fear and trembling;
-https://www.biblegateway.com/passage/?search=Philippians%202%3A12&version=NKJV
 
+.https://www.biblegateway.com/passage/?search=2%20Corinthians%2013%3A5&version=NKJV
 [quote,2 Corinthians 13:5,NKJV]
 Examine yourselves as to whether you are in the faith. Test yourselves. Do you not know yourselves, that Jesus Christ is in you?—unless indeed you are disqualified.
-https://www.biblegateway.com/passage/?search=2%20Corinthians%2013%3A5&version=NKJV
+
 
 Are you a Christian?  How do you know?  Would you bet your life on it?
 
@@ -16,15 +16,17 @@ Are you a Christian?  How do you know?  Would you bet your life on it?
 Scripture:: https://www.blueletterbible.org/nkjv/1jo/1/1/s_1160001
 Study Guide:: https://www.blueletterbible.org/comm/guzik_david/study-guide/1-john/1-john-1.cfm
 
+=== Walking in the Light
+
+.https://www.blueletterbible.org/nkjv/1jo/1/7/s_1160007
 [quote, 1 John 1:7, NKJV]
 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
-https://www.blueletterbible.org/nkjv/1jo/1/7/s_1160007
+
+=== Confession of Sin
+
+== 1 John 2
 
 == OTHER RAW INFO
-
-1. 1 John 1:5-7 (Walking in the Light) 
-
-5 This is the message which we have heard from Him and declare to you, that God is light and in Him is no darkness at all. 6 If we say that we have fellowship with Him, and walk in darkness, we lie and do not practice the truth. 7 But if we walk in the light as He is in the light, we have fellowship with one another, and the blood of Jesus Christ His Son cleanses us from all sin.
 
 2. 1 John 1:8-10 (Confession of Sin) 
 
