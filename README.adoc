@@ -1,0 +1,3 @@
+= GBC Technology Documentation
+
+This site is hosted at https://nescient.github.io/gbcdocs/.
