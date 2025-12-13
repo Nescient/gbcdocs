@@ -5,4 +5,41 @@ Dec 13, 2025
 
 17 Oneida River Road
 
-Attendees:  Sam, Nate, ???
+Attendees:  Sam, Nate, Pete, Tom R, Paul, Artchitech, AV guys (josh).
+
+Some AV equipment ADS50 network needs to be CAT 5e Shielded
+
+internet in on 117.  cable modem.  main switch.
+
+run cat 6a everywhere, but av cables must be cat5e.  SHIELDED.
+
+
+one floor box with ports not on floor of box insode
+
+
+hanging mics for choir.  2 mics.
+
+flip ramp and door, choir on left 109.  add floor drain and spiket.
+
+make wall larger for 120 inch screen.  walls need to be braced.
+
+
+* *send av ppl the model of the projector and screen*
+
+RG6 matrix many to many.  $70 per hdmi to rg6 converter.  needed for each tv.
+
+av company does terminations on cables.
+
+they need to term the cat5e.
+
+they will term coax and whatever we want.
+
+single same phase for all av equipmet with isolated ground.
+
+speakers in cry room and foyer.
+
+security cams are poe.
+
+we use injectore for camera.
+
+need second camera and injector.
