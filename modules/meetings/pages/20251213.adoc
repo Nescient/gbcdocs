@@ -48,3 +48,6 @@ security cams are poe.
 we use injectore for camera.
 
 need second camera and injector.
+
+
+avbox needs to be 2.5 inch deep.  incase
