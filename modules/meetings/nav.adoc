@@ -1,2 +1,4 @@
 * xref:index.adoc[]
 ** xref:20250712.adoc[]
+** xref:20251030.adoc[]
+** xref:20251213.adoc[]
