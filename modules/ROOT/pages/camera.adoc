@@ -6,4 +6,14 @@ By default, the camera will want to be on the `193.168.1.100` IP address.  Our n
 
 === Display Settings
 
-To show the current IP address of a PTZOptics camera on-screen, press `*` + `#` + `4` in sequence on the IR remote while it's connected to a display via HDMI/SDI. This displays the IP, subnet mask, and gateway in the top-left corner. 
+To show the current IP address of a PTZOptics camera on-screen, press `*` + `#` + `4` in sequence on the IR remote while it's connected to a display via HDMI/SDI. This displays the IP, subnet mask, and gateway in the top-left corner.  The MAC address is displayed on the bottom of the camera and should be `D4E08E062E1C`.
+
+=== Reset to DHCP
+
+`#` + `*` + `4` will set it into DHCP.  You should see it say DHCP Open.  You might need to reboot the camera.
+
+WARNING:: This doesn't seem to work with our camera.  https://community.ptzoptics.com/s/article/Assigning-an-IP-Address
+
+If your camera ever comes out of DHCP mode, you can quickly set it back by using the IR remote shortcut: `F1` > `0` > `0` > `1`: Sets the IP address to DHCP.
+
+You can now check the router for the camera MAC address and reassign a static IP for it.
