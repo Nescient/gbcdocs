@@ -12,4 +12,4 @@ As of 07 Feb 2026, our WiFi mesh is served by a Deco XYZ router.  Management of 
 
 == Static IP
 
-Using the Deco app, add a custom address reservation for the xref:camera[camera's] MAC address `FF`.
+Using the Deco app, add a custom address reservation for the xref:camera[camera's] MAC address `D4E08E062E1C`.  Go to More, Advanced, Address Reservation, New, Custom, 
