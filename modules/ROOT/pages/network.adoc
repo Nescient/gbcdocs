@@ -1,5 +1,7 @@
 = Network Information
 
+We currently have an Ethernet cable running from the auditorium to the loft office.  It is a 100' CAT 6 cable.
+
 = Internet Service Provider
 
 Spectrum.  See Seth.
