@@ -2,7 +2,7 @@
 
 == Network Setup
 
-By default, the camera will want to be on the `193.168.1.100` IP address.  Our new Deco router uses a different network.  For any new routers, set up a static IP for the camera (or there will be random issues connecting to the admin site).
+By default, the camera will want to be on the `193.168.1.100` IP address.  Our new xref:network.adoc[Deco router] uses a different network.  For any new routers, set up a static IP for the camera (or there will be random issues connecting to the admin site).
 
 === Display Settings
 
