@@ -1,3 +1,9 @@
 = Camera
 
+== Network Setup
+
+By default, the camera will want to be on the `193.168.1.100` IP address.  Our new Deco router uses a different network.  For any new routers, set up a static IP for the camera (or there will be random issues connecting to the admin site).
+
+=== Display Settings
+
 To show the current IP address of a PTZOptics camera on-screen, press * + # + 4 in sequence on the IR remote while it's connected to a display via HDMI/SDI. This displays the IP, subnet mask, and gateway in the top-left corner. 
