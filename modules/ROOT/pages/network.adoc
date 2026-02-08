@@ -2,10 +2,14 @@
 
 We currently have an Ethernet cable running from the auditorium to the loft office.  It is a 100' CAT 6 cable.
 
-= Internet Service Provider
+== Internet Service Provider
 
 Spectrum.  See Seth.
 
-= Router
+== Router
 
 As of 07 Feb 2026, our WiFi mesh is served by a Deco XYZ router.  Management of the network is done via the Deco app.
+
+== Static IP
+
+Using the Deco app, add a custom address reservation for the xref:camera[camera's] MAC address `FF`.
