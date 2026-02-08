@@ -1,2 +1,3 @@
 * xref:index.adoc[]
 ** xref:presentation.adoc[]
+** xref:camera.adoc[]
