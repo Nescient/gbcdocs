@@ -6,4 +6,4 @@ By default, the camera will want to be on the `193.168.1.100` IP address.  Our n
 
 === Display Settings
 
-To show the current IP address of a PTZOptics camera on-screen, press * + # + 4 in sequence on the IR remote while it's connected to a display via HDMI/SDI. This displays the IP, subnet mask, and gateway in the top-left corner. 
+To show the current IP address of a PTZOptics camera on-screen, press `*` + `#` + `4` in sequence on the IR remote while it's connected to a display via HDMI/SDI. This displays the IP, subnet mask, and gateway in the top-left corner. 
