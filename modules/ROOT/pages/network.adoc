@@ -1,2 +1,9 @@
 = Network Information
 
+= Internet Service Provider
+
+Spectrum.  See Seth.
+
+= Router
+
+As of 07 Feb 2026, our WiFi mesh is served by a Deco XYZ router.  Management of the network is done via the Deco app.
